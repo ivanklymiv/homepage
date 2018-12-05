@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["main.js"],"sourcesContent":["function myFunction(x) {\r\n    x.classList.toggle(\"change\");\r\n}"],"file":"main.js.map"}
